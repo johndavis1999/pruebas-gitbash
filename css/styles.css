@@ -1,0 +1,56 @@
+body{
+    background: #1e1f24;
+    text-align: left;
+    font-family: Arial;
+    color: rgb(52, 24, 153);
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+}
+
+#containet h1{
+    font-size: 20px;
+}
+
+#cabecera{
+    background: #33A;
+    color: white;
+    margin: 0;
+    padding: 0.5em 0 0.5em 2em;
+    font-weight: bold;
+    box-shadow: 0 5px 30px 0px rgba(0, 0, 0, 0.75);
+
+}
+
+#cabecera #logo{
+    width: 20px;
+    vertical-align: middle;
+}
+
+
+
+#cabecera #tagline{
+    font-weight: normal;
+    font-size: 0.8em;
+    padding:  0 0 0 1em;
+}
+
+
+#post {
+    background: white;
+    padding: 1em;
+}
+
+#footer {
+    background: #777;
+    color: white;
+    text-align: center;
+}
